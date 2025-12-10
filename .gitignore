@@ -1,2 +1,14 @@
 /backend/.venv
 /frontend/node_modules
+.env
+.DS_Store
+*.log
+.idea/
+.vscode/
+*.pyc
+__pycache__/
+dist/
+build/
+.env
+.env.local
+.env.*.local
